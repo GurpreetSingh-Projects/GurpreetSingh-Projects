@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GurpreetSingh
 - 👀 I’m interested in Java and Software Development
-- 🌱 I’m currently learning Core Java and python
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 gpsingh02414@gmail.com
 
