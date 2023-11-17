@@ -1,5 +1,5 @@
-![logo](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/3de00c9225a8d922da617763d5f76d351ee24cf2/photo_6251330642155518344_y.jpg)
-<h1 align="center">Hello👋, I'm Gurpreet SIngh Chadha</h1>
+![logo](https://media.licdn.com/dms/image/D4D16AQGYJbwvH8yESQ/profile-displaybackgroundimage-shrink_350_1400/0/1686406573393?e=1705536000&v=beta&t=66fpVimbETBj6L2-flRhxrQuvKQdxGjxcdnu8aXQlms)
+<h1 align="center">Hello👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Frontend developer from Lucknow</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreetsingh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreetsingh-projects" /> </p>
 
