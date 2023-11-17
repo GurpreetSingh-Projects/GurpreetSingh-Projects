@@ -1,25 +1,24 @@
+![logo](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/3de00c9225a8d922da617763d5f76d351ee24cf2/photo_6251330642155518344_y.jpg)
 <h1 align="center">Hello👋, I'm Gurpreet SIngh Chadha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/9b36319b5e3865e8aa5fb4d7d01b0898ac8859cc/1630526455370.gif">
+<h3 align="center">A passionate Frontend developer from Lucknow</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreetsingh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreetsingh-projects" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurpreetsingh-projects" alt="gurpreetsingh-projects" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/9b36319b5e3865e8aa5fb4d7d01b0898ac8859cc/1630526455370.gif">
 
 - 🔭 I’m currently working on **React.js based Social Media Project**
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **React.js, Bootstrap, JavaScript etc**
-
 - 👨‍💻 All of my projects are available at [https://github.com/GurpreetSingh-Projects/Project-Links](https://github.com/GurpreetSingh-Projects/Project-Links)
 
-- 📫 How to reach me **gpsingh02414@gmail.com**
+- 📫 Contact me at **gpsingh02414@gmail.com** or **+919696577023**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gurpreetchadhaeee/](https://www.linkedin.com/in/gurpreetchadhaeee/)
 
-- ⚡ Fun fact **I am an electrical engineer**
+- ⚡ Fun fact **I am an Electrical and Electronics Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
