@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Gurpreet SIngh Chadha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/9b36319b5e3865e8aa5fb4d7d01b0898ac8859cc/1630526455370.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreetsingh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreetsingh-projects" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurpreetsingh-projects" alt="gurpreetsingh-projects" /></a> </p>
