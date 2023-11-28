@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GurpreetSingh-Projects/Project-Links](https://github.com/GurpreetSingh-Projects/Project-Links)
 
-- 📫 Contact me at **gpsingh02414@gmail.com** or **+919696577023**
+- 📫 Contact me at **gpsingh02414@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gurpreetchadhaeee/](https://www.linkedin.com/in/gurpreetchadhaeee/)
 
