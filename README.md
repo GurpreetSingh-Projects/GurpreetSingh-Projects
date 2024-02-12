@@ -1,4 +1,4 @@
-![logo]([https://media.licdn.com/dms/image/D4D16AQGYJbwvH8yESQ/profile-displaybackgroundimage-shrink_350_1400/0/1686406573393?e=1705536000&v=beta&t=66fpVimbETBj6L2-flRhxrQuvKQdxGjxcdnu8aXQlms](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/c37858bca46e06ee55cd3bae1780991ce5bdd39e/photo_6251330642155518344_y.jpg])
+![logo](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/main/photo_6251330642155518344_y.jpg?raw=true)
 <h1 align="center">Hello👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Frontend developer from Lucknow</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreetsingh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreetsingh-projects" /> </p>
