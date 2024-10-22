@@ -1,3 +1,4 @@
+[![An image of @gpsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpsingh)](https://holopin.io/@gpsingh)
 ![logo](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/main/photo_6251330642155518344_y.jpg?raw=true)
 <h1 align="center">Hello👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Frontend developer from Lucknow</h3>
