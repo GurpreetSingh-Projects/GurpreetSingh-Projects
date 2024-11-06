@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurpreetsingh-projects" alt="gurpreetsingh-projects" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/9b36319b5e3865e8aa5fb4d7d01b0898ac8859cc/1630526455370.gif">
 
-- 🔭 I’m currently working on **React.js based Social Media Project**
+- 🔭 I’m currently working on **React.js based Youtube Clone Project**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
