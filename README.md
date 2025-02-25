@@ -1,5 +1,3 @@
-[![An image of @gpsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpsingh)](https://holopin.io/@gpsingh)
-![logo](https://github.com/GurpreetSingh-Projects/GurpreetSingh-Projects/blob/main/photo_6251330642155518344_y.jpg?raw=true)
 <h1 align="center">Hello👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Frontend developer from Lucknow</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreetsingh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreetsingh-projects" /> </p>
@@ -37,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsingh-projects&" alt="gurpreetsingh-projects" /></p>
 
+[![An image of @gpsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpsingh)](https://holopin.io/@gpsingh)
