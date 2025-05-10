@@ -36,3 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsingh-projects&" alt="gurpreetsingh-projects" /></p>
 
 [![An image of @gpsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpsingh)](https://holopin.io/@gpsingh)
+
+
+https://gurpreet-singh-chadha.vercel.app/ https://gurpreet-singh-chadha.netlify.app/
