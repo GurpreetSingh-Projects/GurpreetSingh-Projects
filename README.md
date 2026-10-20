@@ -110,17 +110,22 @@ Building scalable, real-world systems across web, mobile, and backend 🚀
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gurpreetchadhaeee">
+  <a href="mailto:gpsingh02414@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gurpreet-singh-chadha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/gpsingh02414">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://github.com/GurpreetSingh-Projects">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/gurpreet_singh3603">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://gurpreet-singh-chadha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://gurpreet-singh-chadha.vercel.app/assets/documents/Gurpreet-Singh-Chadha-Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## ⚡ Fun Fact
